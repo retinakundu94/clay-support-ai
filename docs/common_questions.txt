@@ -1,0 +1,22 @@
+Common Questions
+
+Q: What is Clay?
+A: Clay is a no-code platform for building automated data workflows that combine data from multiple sources, enrich records, and automate research or prospecting.
+
+Q: Who uses Clay?
+A: Revenue teams, marketers, sales operations, and growth professionals at startups and enterprises use Clay to automate their outbound, prospecting, and enrichment workflows.
+
+Q: What data sources does Clay connect with?
+A: Clay connects with LinkedIn, Apollo, Clearbit, Google Sheets, Salesforce, HubSpot, webhooks, APIs, and more.
+
+Q: How do I invite teammates?
+A: Click your workspace name, then “Invite teammates,” and enter their emails. You can set permissions per table.
+
+Q: Can I export my data?
+A: Yes, you can export tables as CSVs or connect to Google Sheets for live syncing.
+
+Q: How do I get support?
+A: Use the chat bubble in the bottom right corner or visit [docs.clay.com](https://docs.clay.com) for more help.
+
+Q: How do I get started?
+A: Create a workspace, connect a data source, and add enrichment steps to your table. See the “How Clay Works” article for more.

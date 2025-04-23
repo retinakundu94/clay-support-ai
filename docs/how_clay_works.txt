@@ -1,0 +1,14 @@
+How Clay Works
+
+Clay lets you create visual, no-code workflows called Tables. Each Table represents a process for gathering, enriching, and exporting data.
+
+Workflow Steps:
+1. Import data from sources like LinkedIn, Apollo, Google Sheets, Salesforce, or by uploading a CSV.
+2. Add enrichment steps to automatically find more data, like emails, company info, or social profiles, using built-in integrations.
+3. Use filters, lookups, and conditional logic to customize your workflow.
+4. Automate actions like sending results to your CRM, email, or Slack.
+5. Collaborate in real time with your team, sharing tables and automations.
+
+Each step in your Table can use data from previous steps, allowing you to build powerful, multi-stage research or outbound processes.
+
+Clay is flexible and can be customized for prospecting, lead enrichment, research, and more.

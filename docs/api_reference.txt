@@ -1,0 +1,17 @@
+API Reference
+
+Clay offers a robust API that allows you to programmatically manage tables, records, and enrichments.
+
+Common API actions:
+- List all tables and their schemas.
+- Create, update, and delete records.
+- Trigger enrichment or workflow runs.
+- Retrieve results and export data.
+
+To get started, visit the API Reference tab in the docs or use the in-app API key generator. Authentication is via API keys, and rate limits may apply.
+
+Example usage:
+- Integrate Clay with your CRM or other SaaS tools.
+- Build custom automation using Clay’s endpoints.
+
+Full API documentation is available at [docs.clay.com](https://docs.clay.com).

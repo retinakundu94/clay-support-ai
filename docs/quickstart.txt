@@ -1,0 +1,30 @@
+Quickstart
+
+Welcome to Clay!
+
+This Quickstart guide will help you get up and running with your first workflow.
+
+1. Sign Up and Create a Workspace
+- Go to clay.com and sign up with your work email.
+- Create your workspace and invite teammates if needed.
+
+2. Create a Table
+- Click "New Table" in your workspace.
+- Select a template or start from scratch.
+
+3. Import Data
+- Choose your data source, such as Google Sheets, Salesforce, LinkedIn, Apollo, or upload a CSV.
+- Connect your account and pull in your records.
+
+4. Add Enrichment Steps
+- Use Clay’s built-in integrations (LinkedIn, Apollo, Clearbit, etc.) to enrich your data.
+- Add enrichment steps to your table to automatically find emails, add company info, or score leads.
+
+5. Automate and Export
+- Set up automations to send your data to your CRM, email, or other tools.
+- Export your results as a CSV or sync to Google Sheets.
+
+6. Need Help?
+- Click the in-app chat bubble or visit docs.clay.com for support.
+
+You’re now ready to start automating your research, enrichment, and prospecting with Clay!

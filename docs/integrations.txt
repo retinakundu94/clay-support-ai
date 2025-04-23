@@ -1,0 +1,17 @@
+Integrations
+
+Clay connects to hundreds of data sources, enrichment providers, and automation tools, allowing you to build powerful workflows.
+
+Popular Integrations:
+- LinkedIn: Search and enrich LinkedIn profiles and companies.
+- Apollo: Find and enrich company or contact data.
+- Clearbit: Enrich emails, domains, and company info.
+- Google Sheets: Import and export data from your spreadsheets.
+- Salesforce: Sync data with Salesforce records.
+- HubSpot: Connect contacts and leads from HubSpot.
+- OpenAI: Automate tasks or enrich data with AI.
+
+You can also connect webhooks, APIs, and use custom integrations to power even more advanced workflows.
+To connect an integration, add a step in your Clay table, select your data source or enrichment provider, and follow the prompts to authenticate.
+
+For a full list and step-by-step instructions, refer to the Integrations tab in your workspace.

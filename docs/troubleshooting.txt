@@ -1,0 +1,16 @@
+Troubleshooting
+
+If you experience issues with Clay, try these steps:
+
+- Refresh your browser and check your internet connection.
+- Ensure your integrations are properly connected and authenticated.
+- Check if your data source (e.g., Google Sheets, Salesforce) is accessible and permissions are set correctly.
+- For failed enrichments, review error messages in the table for details.
+- If you encounter rate limits or API errors, try again later or check with your provider.
+
+Common Problems:
+- Table won’t load: Try clearing browser cache or use an incognito window.
+- Data not updating: Make sure automations and integrations are enabled.
+- Error messages: Hover over errors in your table for more info.
+
+If issues persist, use the in-app chat bubble to contact Clay support or visit the documentation for further assistance.
